@@ -1,2 +1,5 @@
 # django-api-test
-learn how to use DjangoRestFramework
+下のコマンドで実行します
+```
+docker compose up
+```
